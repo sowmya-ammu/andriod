@@ -1,0 +1,13 @@
+public class boathousebooking extends booking {
+     int noOfdays;
+     string foodtype:
+     public BoathouseBooking(string customer, string cityname,string super (customer changes
+
+cityname, phone number,noofpeople);
+{
+     public double calculatetotak amount()
+          return foodtype.toLwercase ().equals ("bon veg") ? noofpeople*800 +
+          Noofdays*300 + 500: noofpeople *800 + noofdays *3000 + 250 ;
+          }
+    }
+    
